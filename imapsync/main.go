@@ -8,7 +8,7 @@ import (
 	"io"
 	"log"
 	"os"
-	"taliesinb/go-imap"
+	"github.com/suntong/go-imap"
 	"time"
 )
 
